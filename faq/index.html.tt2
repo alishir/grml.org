@@ -299,7 +299,7 @@ grml keyboard=de xkeyboard=de lang=at # enter this at the bootprompt
         your data. To get access to present SW-RAID devices just execute:</p>
 
 <pre class="rahmen">
-# mdadm --asssemble --scan
+# mdadm --assemble --scan
 </pre>
 
         <p>If you want to enable SW-RAID by default just boot using
